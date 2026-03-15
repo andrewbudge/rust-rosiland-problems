@@ -13,3 +13,4 @@ cargo run --bin <problem_id>
 | ID | Problem | Solution |
 |----|---------|----------|
 | dna | [Counting DNA Nucleotides](https://rosalind.info/problems/dna/) | [dna.rs](src/bin/dna.rs) |
+| rna | [Transcribing DNA into RNA](https://rosalind.info/problems/rna/)
