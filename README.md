@@ -14,4 +14,4 @@ cargo run --bin <problem_id>
 |----|---------|----------|
 | dna | [Counting DNA Nucleotides](https://rosalind.info/problems/dna/) | [dna.rs](src/bin/dna.rs) |
 | rna | [Transcribing DNA into RNA](https://rosalind.info/problems/rna/) | [rna.rs](src/bin/rna.rs) |
-| recv | [	Complementing a Strand of DNA](https://rosalind.info/problems/revc/) | [recv.rs] (sra/bin/recv.rs) |
+| recv | [	Complementing a Strand of DNA](https://rosalind.info/problems/revc/) | [recv.rs] (src/bin/recv.rs) |
